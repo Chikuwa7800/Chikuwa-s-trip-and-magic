@@ -1,0 +1,24 @@
+ Additions
+
+Added a new structure, the Graveyard.
+Added new items: Grave Heart, Ginunga Soul, and Slice of Lament.
+Added a new entity, Ginunga.
+
+ Changes
+
+Changed the model for spell books in the GUI and item entities.
+All additional item models have been changed from custom model data to item model.
+Changed the appearance of all level 2 spell books.
+The colors of bolt-element items, effects, and particles have been unified with the color of spell books.
+Spell can now be cast using only spell books.
+Changed the textures of the knife, spear, glaive, magic core, frenzied wakame core, seaweed shard, ten times compression wakame, and wakame sword.
+The entity control range of glaives has been reduced by 0.5.
+Changed base items of some items.
+The rarity of the frenzied wakame core has been increased to rare.
+The rarity of the empty spell book has been decreased to common.
+
+ Fixes
+
+Fixed a bug where the special effects section was missing from the flint glaive description.
+
+Other minor adjustments...
