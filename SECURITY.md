@@ -1,6 +1,6 @@
 # Verified Versions
 
-Versions prior to 0.6.1 are not distributed.
+Versions prior to α0.6.1 are not distributed.
 
 <table  border="1">
 <tr><th>Minecraft Version</th><th>Trip and Magic Version</th></tr>
