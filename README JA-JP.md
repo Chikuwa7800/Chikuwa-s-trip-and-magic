@@ -5,7 +5,7 @@
 旅関連では、新しい武器や料理、構造物にボスや新たなMOBも出てくる。 魔法関連では、主に炎,氷,水,雷,自然,虚無の魔法や、魔法の杖と魔導書、魔法の武器を追加する。
 
 ## 利用規約
-
+<p><a href="https://github.com/Chikuwa7800/Chikuwa-s-trip-and-magic/blob/main/LICENSE.md">LICENSE.md</a>より引用、翻訳。</p>
 ここに書かれていること以外の要素/規約については[Apache-2.0](https://www.apache.org/licenses/)が適用されます。
 
 ### 定義
