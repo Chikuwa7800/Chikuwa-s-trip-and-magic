@@ -20,10 +20,4 @@ PC: Windows, Linux
 
 ## Others
 
-Note: This file does not include a resource pack. You must download the resource pack separately.
-
-Note: Compatible versions may change. Currently scheduled for release on 1.21.
-
-I'm reporting progress updates here.
-
-https://www.youtube.com/playlist?list=PL399xKvmf9yreSazXop2QDSeExzq17oNQ
+Note: Compatible versions may change.
