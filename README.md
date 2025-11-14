@@ -14,11 +14,9 @@ https://modrinth.com/datapack/trip-and-magic
 PC: Windows, Linux
 
 ### Compatible Versions
-α0.1~α0.4: 1.20.1~1.20.4
-
-α0.5~α0.5.2: 1.20.5~1.21.9
-
-α0.6.1: 1.21.10~
+<p>α0.1~α0.4: 1.20.1~1.20.4</p>
+<p>α0.5~α0.5.2: 1.20.5~1.21.9</p>
+<p>α0.6.1: 1.21.10~</p>
 
 ## Others
 
