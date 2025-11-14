@@ -5,7 +5,7 @@ This data pack looks set to be quite a big one. It's designed to make travel and
 Travel-related features include new weapons, food, structures, bosses, and new mobs. Magic-related features include fire, ice, water, bolt, nature, and void spells, as well as magic staffs, spell books, and magical weapons.
 
 ## LICENSE
-<p>Quotation from LISENCE.md</p>
+<p>Quotation from <a href="https://github.com/Chikuwa7800/Chikuwa-s-trip-and-magic/blob/main/LICENSE.md">LICENSE.md</a></p>
 Any elements/terms not stated here are governed by [Apache-2.0](https://www.apache.org/licenses/).
 
 ### Definition
