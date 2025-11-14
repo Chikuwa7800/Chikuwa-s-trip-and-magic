@@ -5,7 +5,7 @@ This data pack looks set to be quite a big one. It's designed to make travel and
 Travel-related features include new weapons, food, structures, bosses, and new mobs. Magic-related features include fire, ice, water, bolt, nature, and void spells, as well as magic staffs, spell books, and magical weapons.
 
 ## LICENSE
-Quotation from LISENCE.md
+<p>Quotation from LISENCE.md</p>
 Any elements/terms not stated here are governed by [Apache-2.0](https://www.apache.org/licenses/).
 
 ### Definition
